@@ -6,7 +6,7 @@ Zvolíte rozměr čtverce generovaného pole, minimum je 2, maximum je 20, a kli
 ![fsadfsfdascvsavsb](https://user-images.githubusercontent.com/92072825/211858086-8d6e7ed8-319c-4e3f-9ddb-dad843d7a1cd.png)
 
 Dlaždic, z kterých program vybírá, je 10. Začína od přostředka kde náhodně vygeneruje první dlaždici a pokračuje viz obrázek.
-![Bez názvu](https://user-images.githubusercontent.com/92072825/211854948-88816465-4833-49ea-a840-81333a9698bd.png)
+![Bez názvu](https://user-images.githubusercontent.com/92072825/211861496-b506c0c4-cdd8-4d5a-8b12-cda5f478c5ab.png)
 
 Při pokládání dlaždice volá metodu generate, která zkontroluje všechny dlaždice okolo, najde všechny dlaždice co tam můžou být umístěny a náhodně z nich jednu vybere.
 
