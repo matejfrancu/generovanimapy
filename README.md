@@ -3,6 +3,8 @@ Matěj Franců, Erik Hrazdira - zápočtová práce
 
 Zvolíte rozměr čtverce generovaného pole, minimum je 2 maximum je 20, a kliknete na tlačítko, poté se vygeneruje mapa.
 
+![fsadfsfdascvsavsb](https://user-images.githubusercontent.com/92072825/211858086-8d6e7ed8-319c-4e3f-9ddb-dad843d7a1cd.png)
+
 Dlaždic je 10, začína od přostředka kde náhodně vygeneruje první dlaždici a pokračuje viz obrázek.
 ![Bez názvu](https://user-images.githubusercontent.com/92072825/211854948-88816465-4833-49ea-a840-81333a9698bd.png)
 
